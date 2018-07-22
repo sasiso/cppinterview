@@ -27,6 +27,13 @@
                     "message": 3
                 }
             }]
+        },
+        {
+            "label": "Run",
+            "type": "shell",
+            "command": "bash -c 'cd ./;./build/cppinterview.exe'",     
         }
+
+
     ]
 }

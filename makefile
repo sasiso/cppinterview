@@ -1,4 +1,5 @@
-TARGET_EXEC ?= a.out
+TARGET_EXEC ?= cppinterview.exe
+CC = g++
 
 BUILD_DIR ?= ./build
 SRC_DIRS ?= ./
