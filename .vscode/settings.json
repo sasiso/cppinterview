@@ -32,6 +32,20 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "chrono": "cpp",
+        "condition_variable": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "memory": "cpp",
+        "mutex": "cpp",
+        "ratio": "cpp",
+        "xthread": "cpp",
+        "tuple": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "xfunctional": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp"
     }
 }
