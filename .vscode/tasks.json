@@ -32,6 +32,11 @@
             "label": "Run",
             "type": "shell",
             "command": "bash -c 'cd ./;./build/cppinterview.exe'",     
+            "dependsOn": ["make"],
+            "group":{
+                "kind": "test",
+                "isDefault": true
+            }
         }
 
 
